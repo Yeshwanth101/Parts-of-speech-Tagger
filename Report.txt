@@ -1,0 +1,8 @@
+*******************************
+Report:
+*******************************
+
+For the first sentence we get the output for jupiter as PUNCT tag but, the actual POS tag is NOUN. The reason for this is that the word jupiter was not found in the given corpus. Whereas when if we give the word Jupiter(with capital J) the model predicts the POS tag as NOUN which is correct. In case of the second sentence we generate the POS acuurately.
+
+Lessons lesarnt:
+By doing this assignment I've learnt about viterbi algorithm where we can divide all words into some categories depending upon their job in the sentence used. This algorithm gives us a better results because we use both transition and emission probabilities to get the most probable part of speech tagging.

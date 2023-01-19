@@ -1,0 +1,15 @@
+**********************************************
+OUTPUT:
+**********************************************
+
+Sentence1:
+the planet Jupiter and its moons are in effect a mini solar system .
+
+Output-1:
+['DETERMINER', 'NOUN', 'NOUN', 'CONJUNCTION', 'PRONOUN', 'NOUN', 'VERB', 'PREPOSITION', 'NOUN', 'DETERMINER', 'ADJECTIVE', 'ADJECTIVE', 'NOUN', 'PUNCT']
+
+Sentence-2:
+computers process programs accurately .
+
+Output-2:
+['NOUN', 'NOUN', 'NOUN', 'ADVERB', 'PUNCT']
